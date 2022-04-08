@@ -94,7 +94,7 @@ pivot longer to change columns to measure and value to prepare for visualiztion
 
 ## Plots
 ### add description here
-![](Images/EfficientFrontier.jpeg | width = 100)
+![](Images/EfficientFrontier.jpeg)
 
 ### add description here
 ![](Images/RiskadjustedReturn-BarGraph.jpeg | width = 100)
