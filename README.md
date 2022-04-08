@@ -93,5 +93,5 @@ inner join fun_combined and all_sterl
 pivot longer to change columns to measure and value to prepare for visualiztion
 
 ## Plots
-![](Images/filename%20EfficientFrontier.jpeg)
+![](Images/EfficientFrontier.jpeg)
 
