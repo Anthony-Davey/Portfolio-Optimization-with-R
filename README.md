@@ -93,5 +93,8 @@ inner join fun_combined and all_sterl
 pivot longer to change columns to measure and value to prepare for visualiztion
 
 ## Plots
+### add description here
 ![](Images/EfficientFrontier.jpeg)
 
+### add description here
+![](Images/RiskadjustedReturn-BarGraph.jpeg)
